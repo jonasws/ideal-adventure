@@ -59,11 +59,11 @@ export default () =>
       <Slide align="flex-start flex-start">
         <Heading size={2}>Et programmeringsspråk</Heading>
         <List>
-          <ListItem>ML-style (Haskell, oCaml)</ListItem>
-          <ListItem>Funksjonelt</ListItem>
+          <ListItem>ML-style (Haskell, Clojure, Rust)</ListItem>
+          <ListItem>Funksjonelt: currying, function composition ++</ListItem>
           <ListItem>Strengt typet</ListItem>
           <ListItem>Immuterbart</ListItem>
-          <ListItem>Interoprerer med JavaScript</ListItem>
+          <ListItem>Interoperer med JavaScript</ListItem>
           <Appear><ListItem>Raskt!</ListItem></Appear>
         </List>
       </Slide>
